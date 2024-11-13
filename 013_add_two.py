@@ -9,6 +9,8 @@ from lib.helpers import check_that_these_are_equal
 # * Takes a number as input
 # * Adds two to it
 # * Returns the result
+def add_two(num):
+    return 2+num
 
 # ⚠️ If you see code magically appearing in your editor
 # before you type it — that's AI! Please disable it to
